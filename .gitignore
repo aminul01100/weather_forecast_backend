@@ -1,0 +1,15 @@
+*.pyc
+*~
+__pycache__
+.pytest_cache/
+.DS_Store
+entree_backend/.idea
+.vscode/
+.idea/
+venv/
+celerybeat-schedule
+*.db
+.env
+/entree_backend/geckodriver.log
+*.json
+static_local_files/
